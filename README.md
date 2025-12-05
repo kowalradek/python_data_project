@@ -95,7 +95,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the Polish Job Postings](images/likelihood_of_skills_1st_question.png)
+![Likelihood of Skills Requested in the Polish Job Postings](Project/images/likelihood_of_skills_1st_question.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -144,7 +144,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in Poland](images/Trending_Top_Skills_for_Data_Analysts_in_Poland.png)  
+![Trending Top Skills for Data Analysts in Poland](Project/images/Trending_Top_Skills_for_Data_Analysts_in_Poland.png)  
 *Bar graph visualizing the trending top skills for data analysts in Poland in 2023.*
 
 ### Insights:
@@ -180,7 +180,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in Poland](images/Salary_Distributions_of_Data_Jobs_Poland.png)  
+![Salary Distributions of Data Jobs in Poland](Project/images/Salary_Distributions_of_Data_Jobs_Poland.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -233,7 +233,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in Poland:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in Poland](images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_Poland.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in Poland](Project/images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_Poland.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in Poland.*
 
 #### Insights:
